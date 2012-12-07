@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution Net-Gmail-IMAP-Label,
+version 0.001:
+
+  IMAP proxy for Google's Gmail that retrieves message labels
+
+This software is copyright (c) 2011 by Zakariyya Mughal <zmughal@cpan.org>.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+
