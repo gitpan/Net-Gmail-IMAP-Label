@@ -23,7 +23,7 @@ my %WriteMakefileArgs = (
   "EXE_FILES" => [
     "bin/gmail-imap-label"
   ],
-  "LICENSE" => "perl",
+  "LICENSE" => "artistic_2",
   "NAME" => "Net::Gmail::IMAP::Label",
   "PREREQ_PM" => {
     "Carp" => 0,
@@ -42,7 +42,7 @@ my %WriteMakefileArgs = (
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.001",
+  "VERSION" => "0.002",
   "test" => {
     "TESTS" => "t/*.t"
   }
