@@ -12,7 +12,7 @@ my %WriteMakefileArgs = (
   "ABSTRACT" => "IMAP proxy for Google's Gmail that retrieves message labels",
   "AUTHOR" => "Zakariyya Mughal <zmughal\@cpan.org>",
   "BUILD_REQUIRES" => {
-    "Capture::Tiny" => 0,
+    "Capture::Tiny" => "0.12",
     "Test::More" => 0,
     "utf8" => 0
   },
@@ -42,7 +42,7 @@ my %WriteMakefileArgs = (
     "strict" => 0,
     "warnings" => 0
   },
-  "VERSION" => "0.005",
+  "VERSION" => "0.006",
   "test" => {
     "TESTS" => "t/*.t"
   }

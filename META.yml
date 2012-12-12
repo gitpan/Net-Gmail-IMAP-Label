@@ -3,7 +3,7 @@ abstract: "IMAP proxy for Google's Gmail that retrieves message labels"
 author:
   - 'Zakariyya Mughal <zmughal@cpan.org>'
 build_requires:
-  Capture::Tiny: 0
+  Capture::Tiny: 0.12
   Test::More: 0
   utf8: 0
 configure_requires:
@@ -31,4 +31,4 @@ requires:
   constant: 0
   strict: 0
   warnings: 0
-version: 0.005
+version: 0.006
