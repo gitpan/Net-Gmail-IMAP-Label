@@ -1,4 +1,7 @@
 package Net::Gmail::IMAP::Label::Proxy;
+{
+  $Net::Gmail::IMAP::Label::Proxy::VERSION = '0.007';
+}
 
 use warnings;
 use strict;

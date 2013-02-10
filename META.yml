@@ -31,4 +31,7 @@ requires:
   constant: 0
   strict: 0
   warnings: 0
-version: 0.006
+resources:
+  homepage: https://github.com/zmughal/gmail-imap-label
+  repository: https://github.com/zmughal/gmail-imap-label.git
+version: 0.007
